@@ -1,0 +1,8 @@
+*.pyc
+.DS_Store
+snippets.ipynb
+.ipynb_checkpoints
+*.jpg
+*.zip
+draft*
+recordsearch_tools
