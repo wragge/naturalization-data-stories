@@ -4,6 +4,12 @@ This repository includes data and code relating to the article:
 
 Kate Bagnall and Tim Sherratt. 'Missing Links: Data Stories from the Archive of British Settler Colonial Citizenship', *Journal of World History*, vol. 32, no. 2, 2021, pp. 281-300. <[http://doi:10.1353/jwh.2021.0025](https://doi.org/10.1353/jwh.2021.0025)>.
 
+If you'd like to view the charts embedded in these notebooks, you can [browse the repository using NBViewer](https://nbviewer.jupyter.org/github/wragge/naturalization-data-stories/tree/master/).
+
+If you'd like to run the notebooks, you can try them [live on Binder](https://mybinder.org/v2/gh/wragge/naturalization-data-stories/HEAD).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wragge/naturalization-data-stories/HEAD)
+
 ## Data by jurisdiction
 
 ### New South Wales
